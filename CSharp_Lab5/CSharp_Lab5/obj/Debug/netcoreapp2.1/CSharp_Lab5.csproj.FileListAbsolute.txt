@@ -1,0 +1,11 @@
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\bin\Debug\netcoreapp2.1\CSharp_Lab5.deps.json
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\bin\Debug\netcoreapp2.1\CSharp_Lab5.runtimeconfig.json
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\bin\Debug\netcoreapp2.1\CSharp_Lab5.runtimeconfig.dev.json
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\bin\Debug\netcoreapp2.1\CSharp_Lab5.dll
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\bin\Debug\netcoreapp2.1\CSharp_Lab5.pdb
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.csprojAssemblyReference.cache
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.csproj.CoreCompileInputs.cache
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.AssemblyInfoInputs.cache
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.AssemblyInfo.cs
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.dll
+E:\Универ\2ой курс\C#\CSharp_Lab5\CSharp_Lab5\obj\Debug\netcoreapp2.1\CSharp_Lab5.pdb
