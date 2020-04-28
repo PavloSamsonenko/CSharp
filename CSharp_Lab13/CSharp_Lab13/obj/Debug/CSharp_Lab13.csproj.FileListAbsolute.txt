@@ -1,0 +1,20 @@
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.exe.config
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.exe
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.pdb
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csprojAssemblyReference.cache
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.Form1.resources
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.Properties.Resources.resources
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csproj.GenerateResource.cache
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csproj.CoreCompileInputs.cache
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.exe
+C:\Users\LePash\source\repos\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.pdb
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.exe.config
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.exe
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\bin\Debug\CSharp_Lab13.pdb
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csprojAssemblyReference.cache
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.Form1.resources
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.Properties.Resources.resources
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csproj.GenerateResource.cache
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.csproj.CoreCompileInputs.cache
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.exe
+E:\Универ\2ой курс\C#\CSharp_Lab13\CSharp_Lab13\obj\Debug\CSharp_Lab13.pdb
